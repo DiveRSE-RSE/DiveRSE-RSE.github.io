@@ -1,0 +1,9 @@
+_site
+.sass-cache
+.jekyll-metadata
+
+Gemfile.lock
+
+# Ignore bundler-related files
+vendor
+.bundle

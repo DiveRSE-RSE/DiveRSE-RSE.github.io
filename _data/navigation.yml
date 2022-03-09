@@ -1,0 +1,24 @@
+diverse:
+  - title: DiveRSE
+    children:
+      - title: "Home"
+        url: /
+      - title: "About DiveRSE"
+        url: /about
+      - title: "Code of Conduct"
+        url: /code_of_conduct
+
+  - title: Events
+    children:
+      - title: "Upcoming events"
+        url: /events
+      - title: "Past events"
+        url: /past_events
+
+  - title: Information
+    children:
+      - title: "Licence"
+        url: /licence
+      - title: "Contact"
+        url: /contact
+

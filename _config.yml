@@ -288,3 +288,12 @@ defaults:
       comments: # true
       share: true
       related: true
+      sidebar:
+        nav: "diverse"
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      sidebar:
+        nav: "diverse"

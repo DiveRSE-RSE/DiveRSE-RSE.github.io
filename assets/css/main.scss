@@ -10,3 +10,15 @@
 .page__content > h3, .page__content > h6 {
     margin-top: 0;
 }
+
+.page__title {
+    margin-bottom: 12px;
+}
+
+.page__lead {
+    margin-top: 0px;
+    font-size: 0.75em;
+    color: #eee;
+    display: inline-block;
+    max-width: 50% !important;
+}

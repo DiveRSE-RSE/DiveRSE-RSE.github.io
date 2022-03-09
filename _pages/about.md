@@ -8,9 +8,9 @@ title: "About DiveRSE"
 permalink: /about
 ---
 
-DiveRSE is a series of talks and related activities including discussion and
-panel sessions designed to support and raise awareness of EDI challenges and
-successes within the research software community.
+DiveRSE (Diverse RSE) is a series of talks and related activities including
+discussion and panel sessions designed to support and raise awareness of EDI
+challenges and successes within the research software community.
 
 ### DiveRSE: An Introduction
 

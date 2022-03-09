@@ -2,23 +2,19 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: default
-title: "DiveRSE: Supporting EDI within the Research Software Engineering community"
-permalink: /
+layout: single
+classes: wide
+title: "About DiveRSE"
+permalink: /about
 ---
-
-# DiveRSE: Supporting EDI within the Research Software Engineering community
 
 DiveRSE is a series of talks and related activities including discussion and
 panel sessions designed to support and raise awareness of EDI challenges and
 successes within the research software community.
 
-### Upcoming events
-
-_Our events are currently being organised, details of upcoming events will
-appear here shortly._
-
 ### DiveRSE: An Introduction
+
+<h6 style="color: #bbb;">Supporting Equity, Diversity and Inclusion (EDI) within the Research Software Engineering community</h6>
 
 The role title "Research Software Engineer" (RSE) was first used only around 10
 years ago to describe individuals working in a research environment but

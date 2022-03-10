@@ -151,7 +151,8 @@ Conduct contacts.
 The DiveRSE Organising Group is committed to promptly addressing any reported
 issues. If you have experienced or witnessed behavior that violates the DiveRSE
 Code of Conduct, please send an email to [Dr Heather
-Turner](mailto:ht@heatherturner.net) or Dr Marion Weinzierl.
+Turner](mailto:ht@heatherturner.net) or [Dr Marion
+Weinzierl](mailto:marion.weinzierl@durham.ac.uk).
 
 
 ## License

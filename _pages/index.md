@@ -25,11 +25,10 @@ target="_blank" rel="noopener noreferrer">Mary Ann Leung, Ph.D.</a>, Founder and
 the <a href="https://shinstitute.org/" target="_blank" rel="noopener noreferrer">
 Sustainable Horizons Institute</a></strong>.
 <br/><br/>
-The talk "<em>Increasing developer productivity and innovation through diversity
-and the normalization of inclusion</em>" will take place at <strong><a href="https://www.timeanddate.com/worldclock/converter.html?iso=20220322T160000&p1=224&p2=64&p3=179&p4=1440&p5=136&p6=37&p7=101&p8=170&p9=776&p10=438&p11=236&p12=240" target="_blank" rel="noopener noreferrer">16:00 UTC on Monday 22nd
+The talk "<em>Normalizing inclusion by embracing difference</em>" will take place at <strong><a href="https://www.timeanddate.com/worldclock/converter.html?iso=20220322T160000&p1=224&p2=64&p3=179&p4=1440&p5=136&p6=37&p7=101&p8=170&p9=776&p10=438&p11=236&p12=240" target="_blank" rel="noopener noreferrer">16:00 UTC on Tuesday 22nd
 March 2022</a></strong>.
 <br/><br/>
-See the event page (coming soon) for more information or <a href="https://us06web.zoom.us/meeting/register/tZwvd-CprD4jH9Kt5smG4nGbp-YHoahn44Hm" target="_blank" rel="noopener noreferrer">register
+See the <a href="/events/2022-03-22" target="_blank" rel="noopener noreferrer">event page</a> for more information or <a href="https://us06web.zoom.us/meeting/register/tZwvd-CprD4jH9Kt5smG4nGbp-YHoahn44Hm" target="_blank" rel="noopener noreferrer">register
 now via Zoom</a>.
 </div>
 
@@ -47,6 +46,23 @@ The Netherlands in April 2022.
 
 ### Upcoming events
 
-_Our events are currently being organised, details of upcoming events will
+<div style="font-size: 0.8em">
+<strong><a
+href="https://www.timeanddate.com/worldclock/converter.html?iso=20220322T160000&p1=224&p2=64&p3=179&p4=1440&p5=136&p6=37&p7=101&p8=170&p9=776&p10=438&p11=236&p12=240"
+target="_blank" rel="noopener noreferrer">Tuesday 22nd March 2022, 16:00
+UTC</a></strong>: We will launch the DiveRSE series with our keynote talk and subsequent
+discussion session:
+<div style="margin-left: 20px; margin-top: 12px;">
+"<strong><em>Normalizing inclusion by embracing difference</em></strong>",
+<a href="https://shinstitute.org/mary-ann-leung-founder-and-president-2/"
+target="_blank" rel="noopener noreferrer">Mary Ann Leung, Ph.D.</a>, Founder
+and President of the <a href="https://shinstitute.org/" target="_blank"
+rel="noopener noreferrer"> Sustainable Horizons Institute</a>
+<br/><br/><a href="/events/2022-03-22/" target="_blank" rel="noopener noreferrer">
+Full event details</a> - <a href="https://us06web.zoom.us/meeting/register/tZwvd-CprD4jH9Kt5smG4nGbp-YHoahn44Hm" target="_blank" rel="noopener noreferrer">Event registration</a>
+</div>
+</div>
+<br/><br/>
+_Further events are currently being organised, details of upcoming events will
 appear on the [Upcoming events](/events) page._
 

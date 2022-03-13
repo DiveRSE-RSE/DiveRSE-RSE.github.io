@@ -18,7 +18,7 @@ permalink: /events
                 and President of the <a href="https://shinstitute.org/" target="_blank"
                 rel="noopener noreferrer"> Sustainable Horizons Institute</a>
                 <br/>
-                <a href="/events/2022-03-22/" target="_blank" rel="noopener noreferrer">
+                <a href="/events/2022-03-22" target="_blank" rel="noopener noreferrer">
                 Full event details</a> - <a href="https://us06web.zoom.us/meeting/register/tZwvd-CprD4jH9Kt5smG4nGbp-YHoahn44Hm" target="_blank" rel="noopener noreferrer">
                 Event registration</a>
             </td>

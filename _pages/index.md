@@ -19,17 +19,15 @@ header:
 ---
 
 <div class="notice--success" style="font-size: 0.9em !important;">
-<strong>DiveRSE Launch:</strong> We're delighted to announce that the DiveRSE series will
-be launched with a talk from <strong><a href="https://shinstitute.org/mary-ann-leung-founder-and-president-2/"
+<strong>DiveRSE Launch:</strong> We're pleased to announce that the video from the DiveRSE keynote talk, "<em>Normalizing inclusion by embracing difference</em>"
+given by <strong><a href="https://shinstitute.org/mary-ann-leung-founder-and-president-2/"
 target="_blank" rel="noopener noreferrer">Mary Ann Leung, Ph.D.</a>, Founder and President of
 the <a href="https://shinstitute.org/" target="_blank" rel="noopener noreferrer">
-Sustainable Horizons Institute</a></strong>.
+Sustainable Horizons Institute</a></strong> on 22nd March 2022 is now available.
 <br/><br/>
-The talk "<em>Normalizing inclusion by embracing difference</em>" will take place at <strong><a href="https://www.timeanddate.com/worldclock/converter.html?iso=20220322T160000&p1=224&p2=64&p3=179&p4=1440&p5=136&p6=37&p7=101&p8=170&p9=776&p10=438&p11=236&p12=240" target="_blank" rel="noopener noreferrer">16:00 UTC on Tuesday 22nd
-March 2022</a></strong>.
+View the <strong><a href="https://www.youtube.com/watch?v=IDKVrqRjGaI" target="_blank" rel="noopener noreferrer">keynote video</a></strong>.
 <br/><br/>
-See the <a href="/events/2022-03-22" target="_blank" rel="noopener noreferrer">event page</a> for more information or <a href="https://us06web.zoom.us/meeting/register/tZwvd-CprD4jH9Kt5smG4nGbp-YHoahn44Hm" target="_blank" rel="noopener noreferrer">register
-now via Zoom</a>.
+See the <a href="/events/2022-03-22" target="_blank" rel="noopener noreferrer">event page</a> for more information about the talk.
 </div>
 
 DiveRSE is a series of talks and related activities including discussion and
@@ -48,19 +46,11 @@ The Netherlands in April 2022.
 
 <div style="font-size: 0.8em">
 <strong><a
-href="https://www.timeanddate.com/worldclock/converter.html?iso=20220322T160000&p1=224&p2=64&p3=179&p4=1440&p5=136&p6=37&p7=101&p8=170&p9=776&p10=438&p11=236&p12=240"
-target="_blank" rel="noopener noreferrer">Tuesday 22nd March 2022, 16:00
-UTC</a></strong>: We will launch the DiveRSE series with our keynote talk and subsequent
-discussion session:
+href="https://www.timeanddate.com/worldclock/converter.html?iso=20220427T150000&p1=224&p2=64&p3=179&p4=1440&p5=136&p6=37&p7=101&p8=170&p9=776&p10=438&p11=236&p12=240"
+target="_blank" rel="noopener noreferrer">Wednesday 27th April 2022, 15:00
+UTC</a></strong>: Heather Turner, EPSRC RSE Fellow, University of Warwick, UK
 <div style="margin-left: 20px; margin-top: 12px;">
-"<strong><em>Normalizing inclusion by embracing difference</em></strong>",
-<a href="https://shinstitute.org/mary-ann-leung-founder-and-president-2/"
-target="_blank" rel="noopener noreferrer">Mary Ann Leung, Ph.D.</a>, Founder
-and President of the <a href="https://shinstitute.org/" target="_blank"
-rel="noopener noreferrer"> Sustainable Horizons Institute</a>
-<br/><br/><a href="/events/2022-03-22/" target="_blank" rel="noopener noreferrer">
-Full event details</a> - <a href="https://us06web.zoom.us/meeting/register/tZwvd-CprD4jH9Kt5smG4nGbp-YHoahn44Hm" target="_blank" rel="noopener noreferrer">Event registration</a>
-</div>
+Save the date...full details available soon.</div>
 </div>
 <br/><br/>
 _Further events are currently being organised, details of upcoming events will

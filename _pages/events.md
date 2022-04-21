@@ -9,11 +9,11 @@ permalink: /events
     <table>
         <tr>
             <td style="vertical-align: top;">
-                <strong><a href="https://www.timeanddate.com/worldclock/converter.html?iso=20220427T150000&p1=224&p2=64&p3=179&p4=1440&p5=136&p6=37&p7=101&p8=170&p9=776&p10=438&p11=236&p12=240" target="_blank" rel="noopener noreferrer">Weds 27th Apr 2022<br/>15:00 UTC</a></strong>
+                <strong><a href="https://www.timeanddate.com/worldclock/converter.html?iso=20220504T150000&p1=224&p2=64&p3=179&p4=1440&p5=136&p6=37&p7=101&p8=170&p9=776&p10=438&p11=236&p12=240" target="_blank" rel="noopener noreferrer">Wednesday 4th May 2022<br/>15:00 UTC</a></strong>
             </td>
             <td>
-                Dr Heather Turner, EPSRC RSE Fellow, University of Warwick, UK<br/>
-                <em>Save the date...full details will appear here soon</em>.
+                <a href="/events/2022-05-04" target="_blank" rel="noopener noreferrer">EDI in the R Community</a><br/>
+                <em>Dr Heather Turner, EPSRC RSE Fellow, University of Warwick, UK</em>.
             </td>
         </tr>
     </table>

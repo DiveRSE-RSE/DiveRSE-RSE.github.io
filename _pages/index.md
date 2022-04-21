@@ -19,15 +19,16 @@ header:
 ---
 
 <div class="notice--success" style="font-size: 0.9em !important;">
-<strong>DiveRSE Launch:</strong> We're pleased to announce that the video from the DiveRSE keynote talk, "<em>Normalizing inclusion by embracing difference</em>"
+<p>Our next talk will be on <strong>Wednesday 4th May</strong> at 
+<a
+href="https://www.timeanddate.com/worldclock/converter.html?iso=20220504T150000&p1=224&p2=64&p3=179&p4=1440&p5=136&p6=37&p7=101&p8=170&p9=776&p10=438&p11=236&p12=240"
+target="_blank" rel="noopener noreferrer">15:00 UTC</a>. <strong>Heather Turner</strong>, <em>University of Warwick, UK</em>
+will be talking about <a href="/events/2022-05-04" target="_blank" rel="noopener noreferrer">EDI in the R Community</a>.</p>
+<strong>DiveRSE Launch:</strong> The <a href="https://www.youtube.com/watch?v=IDKVrqRjGaI" target="_blank" rel="noopener noreferrer">video</a> from the <a href="/events/2022-03-22" target="_blank" rel="noopener noreferrer">DiveRSE keynote talk</a>, "<em>Normalizing inclusion by embracing difference</em>"
 given by <strong><a href="https://shinstitute.org/mary-ann-leung-founder-and-president-2/"
 target="_blank" rel="noopener noreferrer">Mary Ann Leung, Ph.D.</a>, Founder and President of
 the <a href="https://shinstitute.org/" target="_blank" rel="noopener noreferrer">
 Sustainable Horizons Institute</a></strong> on 22nd March 2022 is now available.
-<br/><br/>
-View the <strong><a href="https://www.youtube.com/watch?v=IDKVrqRjGaI" target="_blank" rel="noopener noreferrer">keynote video</a></strong>.
-<br/><br/>
-See the <a href="/events/2022-03-22" target="_blank" rel="noopener noreferrer">event page</a> for more information about the talk.
 </div>
 
 DiveRSE is a series of talks and related activities including discussion and
@@ -44,13 +45,11 @@ The Netherlands in April 2022.
 
 ### Upcoming events
 
-<div style="font-size: 0.8em">
-<strong><a
-href="https://www.timeanddate.com/worldclock/converter.html?iso=20220427T150000&p1=224&p2=64&p3=179&p4=1440&p5=136&p6=37&p7=101&p8=170&p9=776&p10=438&p11=236&p12=240"
-target="_blank" rel="noopener noreferrer">Wednesday 27th April 2022, 15:00
-UTC</a></strong>: Heather Turner, EPSRC RSE Fellow, University of Warwick, UK
-<div style="margin-left: 20px; margin-top: 12px;">
-Save the date...full details available soon.</div>
+<div class="notice--info" style="font-size: 0.8em">
+Wednesday 4th May 2022, <a
+href="https://www.timeanddate.com/worldclock/converter.html?iso=20220504T150000&p1=224&p2=64&p3=179&p4=1440&p5=136&p6=37&p7=101&p8=170&p9=776&p10=438&p11=236&p12=240"
+target="_blank" rel="noopener noreferrer">15:00
+UTC</a>: <strong><a href="/events/2022-05-04" target="_blank" rel="noopener noreferrer">EDI in the R Community</a></strong>, <em>Heather Turner, University of Warwick, UK</em>
 </div>
 <br/><br/>
 _Further events are currently being organised, details of upcoming events will

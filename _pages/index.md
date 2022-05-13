@@ -19,16 +19,13 @@ header:
 ---
 
 <div class="notice--success" style="font-size: 0.9em !important;">
-<p>Our next talk will be on <strong>Wednesday 4th May</strong> at 
-<a
-href="https://www.timeanddate.com/worldclock/converter.html?iso=20220504T150000&p1=224&p2=64&p3=179&p4=1440&p5=136&p6=37&p7=101&p8=170&p9=776&p10=438&p11=236&p12=240"
-target="_blank" rel="noopener noreferrer">15:00 UTC</a>. <strong>Heather Turner</strong>, <em>University of Warwick, UK</em>
-will be talking about <a href="/events/2022-05-04" target="_blank" rel="noopener noreferrer">EDI in the R Community</a>.</p>
-<strong>DiveRSE Launch:</strong> The <a href="https://www.youtube.com/watch?v=IDKVrqRjGaI" target="_blank" rel="noopener noreferrer">video</a> from the <a href="/events/2022-03-22" target="_blank" rel="noopener noreferrer">DiveRSE keynote talk</a>, "<em>Normalizing inclusion by embracing difference</em>"
-given by <strong><a href="https://shinstitute.org/mary-ann-leung-founder-and-president-2/"
-target="_blank" rel="noopener noreferrer">Mary Ann Leung, Ph.D.</a>, Founder and President of
-the <a href="https://shinstitute.org/" target="_blank" rel="noopener noreferrer">
-Sustainable Horizons Institute</a></strong> on 22nd March 2022 is now available.
+    <p>Our next talk will be on <strong>Monday 13th June, 2022</strong> at 
+        <a href="https://www.timeanddate.com/worldclock/converter.html?iso=20220613T220000&p1=tz_et&p2=136&p3=47&p4=22"
+target="_blank" rel="noopener noreferrer">22:00 UTC</a>. 
+        <strong>Kelly Blincoe, PhD, </strong>, <em>University of Auckland, NZ</em>
+will be talking about 
+        <a href="/events/2022-06-14" target="_blank" rel="noopener noreferrer">Reimagining software processes and practices for an inclusive RSE</a>.
+     </p>
 </div>
 
 DiveRSE is a series of talks and related activities including discussion and

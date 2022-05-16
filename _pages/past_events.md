@@ -19,8 +19,8 @@ permalink: /past_events
                 rel="noopener noreferrer"> Warwick University</a>
                 <br/>
                 <a href="/events/2022-05-04" target="_blank" rel="noopener noreferrer">
-                Full event details</a> - <a href="" target="_blank" rel="noopener noreferrer">
-                <strong>Slides</strong></a> - <a href="" target="_blank" rel="noopener noreferrer"><strong>Video</strong></a>
+                Full event details</a> - <a href="https://heatherturner.net/talks/DiveRSE2022" target="_blank" rel="noopener noreferrer">
+                <strong>Slides</strong></a>
             </td>
         </tr>
        < !╌ 2022 March Event ╌> 

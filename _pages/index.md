@@ -19,12 +19,12 @@ header:
 ---
 
 <div class="notice--success" style="font-size: 0.9em !important;">
-    <p>Our next talk will be on <strong>Monday 13th June, 2022</strong> at 
-        <a href="https://www.timeanddate.com/worldclock/converter.html?iso=20220613T220000&p1=103&p2=224&p3=64&p4=179&p5=1440&p6=136&p7=37&p8=196&p9=240&p10=22"
-target="_blank" rel="noopener noreferrer">22:00 UTC</a> (4pm 13th June US EDT; 8am 14th June Australia AEST; 10am 14th June NZ). 
-        <strong>Kelly Blincoe, PhD, </strong>, <em>University of Auckland, NZ</em>
+    <p>Our next talk will be on <strong>Tuesday 5th July, 2022</strong> at 
+        <a href="https://www.timeanddate.com/worldclock/converter.html?iso=20220705T150000&p1=224&p2=220&p3=64&p4=24&p5=179&p6=1440&p7=136&p8=37&p9=111&p10=101&p11=170&p12=776"
+target="_blank" rel="noopener noreferrer">15:00 UTC</a> (8am US PDT; 10am US CDT; 11pm US EDT, 4pm UK BST, 5pm CEST, 6pm EEST). 
+        <strong>Hana Frluckaj</strong>, <em>University of Texas-Austin, TX, USA</em>
 will be talking about 
-        <a href="/events/2022-06-14" target="_blank" rel="noopener noreferrer">Reimagining software processes and practices for an inclusive RSE</a>.
+        <a href="/events/2022-07-05" target="_blank" rel="noopener noreferrer">Lessons from Diversity, Equity and Inclusion (DEI) in open source software (OSS)</a>.
      </p>
 </div>
 
@@ -42,10 +42,10 @@ The Netherlands in April 2022.
 
 ### Upcoming events
 
-<div class="notice--info" style="font-size: 0.8em">Monday 13th June, 2022, 
-  <a href="https://www.timeanddate.com/worldclock/converter.html?iso=20220613T220000&p1=103&p2=224&p3=64&p4=179&p5=1440&p6=136&p7=37&p8=196&p9=240&p10=22" target="_blank" rel="noopener noreferrer">22:00
+<div class="notice--info" style="font-size: 0.8em">Tuesday 5th July, 2022, 
+  <a href="https://www.timeanddate.com/worldclock/converter.html?iso=20220705T150000&p1=224&p2=220&p3=64&p4=24&p5=179&p6=1440&p7=136&p8=37&p9=111&p10=101&p11=170&p12=776" target="_blank" rel="noopener noreferrer">15:00
 UTC</a>: 
-  <strong><a href="/events/2022-06-14" target="_blank" rel="noopener noreferrer">Reimagining software processes and practices for an inclusive RSE</a></strong>, <em>Kelly Blincoe, PhD, University of Auckland, NZ</em>
+  <strong><a href="/events/2022-07-05" target="_blank" rel="noopener noreferrer">Lessons from Diversity, Equity and Inclusion (DEI) in open source software (OSS)</a></strong>, <em>Hana Frluckaj, University of Texas-Austin, TX, USA</em>
 </div>
 <br/><br/>
 

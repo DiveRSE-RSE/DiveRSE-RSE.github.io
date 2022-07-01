@@ -17,6 +17,9 @@ permalink: /past_events
             <td  style="vertical-align: top;">
                 <a href="/events/2022-06-14" target="_blank" rel="noopener noreferrer">Reimagining software processes and practices for an inclusive RSE</a><br/>
                 <em>Kelly Blincoe, PhD, University of Auckland, NZ</em>.
+                <br/>
+                <a href="/events/2022-06-14" target="_blank" rel="noopener noreferrer">
+                Full event details</a> - <a href="https://www.youtube.com/watch?v=aVeGyeQUifs" target="_blank" rel="noopener noreferrer"><strong>Video</strong></a>
             </td>
         </tr>
         {% comment %}

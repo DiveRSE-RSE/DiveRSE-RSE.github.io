@@ -19,13 +19,9 @@ header:
 ---
 
 <div class="notice--success" style="font-size: 0.9em !important;">
-    <p>Our next talk will be on <strong>Tuesday 5th July, 2022</strong> at 
-        <a href="https://www.timeanddate.com/worldclock/converter.html?iso=20220705T150000&p1=224&p2=220&p3=64&p4=24&p5=179&p6=1440&p7=136&p8=37&p9=111&p10=101&p11=170&p12=776"
-target="_blank" rel="noopener noreferrer">15:00 UTC</a> (8am US PDT; 10am US CDT; 11pm US EDT, 4pm UK BST, 5pm CEST, 6pm EEST). 
-        <strong>Hana Frluckaj</strong>, <em>University of Texas-Austin, TX, USA</em>
-will be talking about 
-        <a href="/events/2022-07-05" target="_blank" rel="noopener noreferrer">Lessons from Diversity, Equity and Inclusion (DEI) in open source software (OSS)</a>.
-     </p>
+    <p>Following a break during July and August 2022, we'll be back with more talks in the DiveRSE series over the coming months. Details will appear here soon.</p>
+    <p>In the meantime, <strong>why not take a look at slides and videos from our <a href="/past_events" target="_blank" rel="noopener noreferrer">past talks</a></strong>.</p>
+    <p>We look forward to seeing you at future DiveRSE talks later in 2022</p>
 </div>
 
 DiveRSE is a series of talks and related activities including discussion and
@@ -42,11 +38,16 @@ The Netherlands in April 2022.
 
 ### Upcoming events
 
-<div class="notice--info" style="font-size: 0.8em">Tuesday 5th July, 2022, 
+<div class="notice--info" style="font-size: 0.8em"> 
+  <p>We'll be announcing further events for later in 2022 soon. Details will appear here.</p>
+<!--
+  Tuesday 5th July, 2022,
   <a href="https://www.timeanddate.com/worldclock/converter.html?iso=20220705T150000&p1=224&p2=220&p3=64&p4=24&p5=179&p6=1440&p7=136&p8=37&p9=111&p10=101&p11=170&p12=776" target="_blank" rel="noopener noreferrer">15:00
 UTC</a>: 
   <strong><a href="/events/2022-07-05" target="_blank" rel="noopener noreferrer">Lessons from Diversity, Equity and Inclusion (DEI) in open source software (OSS)</a></strong>, <em>Hana Frluckaj, University of Texas-Austin, TX, USA</em>
+-->
 </div>
+
 <br/><br/>
 
 _Further events are currently being organised, details of upcoming events will

@@ -39,7 +39,7 @@ The Netherlands in April 2022.
 ### Upcoming events
 
 <div class="notice--info" style="font-size: 0.8em"> 
-  <p>We'll be announcing further events for later in 2022 soon. Details will appear here.</p>
+  <p>Look out for our second series of DiveRSE talks to be scheduled from mid-2023. Details will appear here.</p>
 <!--
   Tuesday 5th July, 2022,
   <a href="https://www.timeanddate.com/worldclock/converter.html?iso=20220705T150000&p1=224&p2=220&p3=64&p4=24&p5=179&p6=1440&p7=136&p8=37&p9=111&p10=101&p11=170&p12=776" target="_blank" rel="noopener noreferrer">15:00

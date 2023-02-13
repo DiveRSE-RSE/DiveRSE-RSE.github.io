@@ -19,9 +19,9 @@ header:
 ---
 
 <div class="notice--success" style="font-size: 0.9em !important;">
-    <p>Following a break during July and August 2022, we'll be back with more talks in the DiveRSE series over the coming months. Details will appear here soon.</p>
+    <p>Following our initial series of talks, we've taken a break during the second half of 2022, however, we're now planning another series of DiveRSE talks for mid-2023. Look out for further information, details will appear here soon.</p>
     <p>In the meantime, <strong>why not take a look at slides and videos from our <a href="/past_events" target="_blank" rel="noopener noreferrer">past talks</a></strong>.</p>
-    <p>We look forward to seeing you at future DiveRSE talks later in 2022</p>
+    <p>We look forward to seeing you at future DiveRSE talks later in 2023.</p>
 </div>
 
 DiveRSE is a series of talks and related activities including discussion and

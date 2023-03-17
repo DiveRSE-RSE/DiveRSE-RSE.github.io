@@ -52,7 +52,7 @@ permalink: /past_events
                 <br/>
                 <a href="/events/2022-05-04" target="_blank" rel="noopener noreferrer">
                 Full event details</a> - <a href="https://heatherturner.net/talks/DiveRSE2022" target="_blank" rel="noopener noreferrer">
-                <strong>Slides</strong></a>
+                <strong>Slides</strong></a> - <a href="https://www.youtube.com/watch?v=DKVWSuR35fI" target="_blank" rel="noopener noreferrer"><strong>Video</strong></a>
             </td>
         </tr>
         {% comment %}

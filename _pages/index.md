@@ -11,7 +11,7 @@ header:
   overlay_filter: "0.3"
   overlay_image: /assets/images/colour-circles-bg-unsplash.jpg
   actions:
-    - label: "Our Talks"
+    - label: "Upcoming Talks"
       url: "/events"
     - label: "About DiveRSE"
       url: "/about"
@@ -19,9 +19,8 @@ header:
 ---
 
 <div class="notice--success" style="font-size: 0.9em !important;">
-    <p>Following our initial series of talks, we've taken a break during the second half of 2022, however, we're now planning another series of DiveRSE talks for mid-2023. Look out for further information, details will appear here soon.</p>
+    <p>We are pleased to announce the launch of our 2023 series of DiveRSE talks which will begin with a talk by Dave Horsfall on Tuesday 16th May 2023 looking at <a href="/events/2023-05-16" target="_blank" rel="noopener noreferrer">the importance of talking about mental health in the Research Software Engineering community</a>.</p>
     <p>In the meantime, <strong>why not take a look at slides and videos from our <a href="/past_events" target="_blank" rel="noopener noreferrer">past talks</a></strong>.</p>
-    <p>We look forward to seeing you at future DiveRSE talks later in 2023.</p>
 </div>
 
 DiveRSE is a series of talks and related activities including discussion and

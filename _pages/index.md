@@ -19,7 +19,7 @@ header:
 ---
 
 <div class="notice--success" style="font-size: 0.9em !important;">
-    <p>We are pleased to announce the launch of our 2023 series of DiveRSE talks which will begin with a talk by Dave Horsfall on Tuesday 16th May 2023 looking at <a href="/events/2023-05-16" target="_blank" rel="noopener noreferrer">the importance of talking about mental health in the Research Software Engineering community</a>.</p>
+    <p>Our next talk in the 2023 DiveRSE series will take place online on Thursday 8th June at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Improving+Diversity+and+Inclusion+in+the+Research+Software+Engineering+Community&iso=20230608T11&p1=1440&ah=1" target="_blank" rel="noopener noreferrer">11:00 UTC</a> with Rowland Mosbergen speaking about <a href="/events/2023-06-08" target="_blank" rel="noopener noreferrer">Improving Diversity and Inclusion in the Research Software Engineering Community</a>.</p>
     <p>In the meantime, <strong>why not take a look at slides and videos from our <a href="/past_events" target="_blank" rel="noopener noreferrer">past talks</a></strong>.</p>
 </div>
 
@@ -35,17 +35,21 @@ The Netherlands in April 2022.
 
 [Find out more](/about) about the DiveRSE event series.
 
+<!--
 ### Upcoming events
 
 <div class="notice--info" style="font-size: 0.8em"> 
   <p>Look out for our second series of DiveRSE talks to be scheduled from mid-2023. Details will appear here.</p>
+  -->
 <!--
   Tuesday 5th July, 2022,
   <a href="https://www.timeanddate.com/worldclock/converter.html?iso=20220705T150000&p1=224&p2=220&p3=64&p4=24&p5=179&p6=1440&p7=136&p8=37&p9=111&p10=101&p11=170&p12=776" target="_blank" rel="noopener noreferrer">15:00
 UTC</a>: 
   <strong><a href="/events/2022-07-05" target="_blank" rel="noopener noreferrer">Lessons from Diversity, Equity and Inclusion (DEI) in open source software (OSS)</a></strong>, <em>Hana Frluckaj, University of Texas-Austin, TX, USA</em>
 -->
+<!--
 </div>
+-->
 
 <br/><br/>
 

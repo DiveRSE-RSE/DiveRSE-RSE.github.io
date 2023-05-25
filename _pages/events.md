@@ -9,8 +9,8 @@ permalink: /events
     <table>
         <tr>
             <td style="vertical-align: top;">
-                <a href="/events/2023-05-16" target="_blank" rel="noopener noreferrer">The importance of talking about mental health in the Research Software Engineering community</a><br/>
-                <em>Dave Horsfall, Newcastle University, UK</em>.
+                <a href="/events/2023-06-08" target="_blank" rel="noopener noreferrer">Improving Diversity and Inclusion in the Research Software Engineering Community</a><br/>
+                <em>Rowland Mosbergen</em>.
             </td>
         </tr>
         <tr>
@@ -20,7 +20,7 @@ permalink: /events
             </td>
             {% endcomment %}
             <td style="vertical-align: top;">
-                <strong><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=The+importance+of+talking+about+mental+health+in+the+RSE+community&iso=20230516T10&p1=136&ah=1" target="_blank" rel="noopener noreferrer">Tuesday 16th May 2023 10:00 BST (09:00 UTC)</a></strong><br/><em style="font-size: 0.5rem;">11am, Europe CEST / Africa SAST; 12pm, Europe EEST / Africa EAT; 1pm GST (Dubai); 2.30pm IST (India); 5pm CST(China)/AWST (Western Australia); 7pm AEST (Eastern Australia); 9pm NZST (NZ)</em>
+                <strong><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Improving+Diversity+and+Inclusion+in+the+Research+Software+Engineering+Community&iso=20230608T11&p1=1440&ah=1" target="_blank" rel="noopener noreferrer">Thursday 8th June 2023 11:00 UTC</a></strong><br/><em style="font-size: 0.5rem;">(12:00 UK/Ireland; 13:00 Europe CEST / Africa SAST; 14:00 Europe EEST / Africa EAT; 15:00 GST (Dubai); 16:30 IST (India); 19:00 CST(China) / AWST (Western Australia); 21:00 AEST (Eastern Australia))</em>
             </td>
         </tr>
     </table>

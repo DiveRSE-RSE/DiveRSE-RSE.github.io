@@ -8,6 +8,21 @@ permalink: /past_events
 <div class="notice notice--primary" style="font-size: 0.9em !important;">
     <table>
         {% comment %}
+        <!╌2023 May event╌>
+        {% endcomment %}
+        <tr>
+            <td style="vertical-align: top;">
+                <strong><a href="/events/2023-05-16" target="_blank" rel="noopener noreferrer">Tuesday 16th May 2023<br/>09:00 UTC</a></strong>
+            </td>
+            <td  style="vertical-align: top;">
+                <strong><em>The importance of talking about mental health in the Research Software Engineering community</em></strong><br/>
+                <em>Dave Horsfall, Newcastle University, UK</em>.
+                <br/>
+                <a href="/events/2023-05-16" target="_blank" rel="noopener noreferrer">
+                Full event details</a> - <a href="#" target="_blank" rel="noopener noreferrer"><strong>Video (available soon)</strong></a>
+            </td>
+        </tr>
+        {% comment %}
         <!╌2022 July event╌>
         {% endcomment %}
         <tr>

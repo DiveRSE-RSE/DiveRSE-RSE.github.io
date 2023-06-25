@@ -19,7 +19,7 @@ header:
 ---
 
 <div class="notice--success" style="font-size: 0.9em !important;">
-    <p>Our next talk in the 2023 DiveRSE series will take place online on Thursday 8th June at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Improving+Diversity+and+Inclusion+in+the+Research+Software+Engineering+Community&iso=20230608T11&p1=1440&ah=1" target="_blank" rel="noopener noreferrer">11:00 UTC</a> with Rowland Mosbergen speaking about <a href="/events/2023-06-08" target="_blank" rel="noopener noreferrer">Improving Diversity and Inclusion in the Research Software Engineering Community</a>.</p>
+    <p>Our next talk in the 2023 DiveRSE series will take place online on Tuesday 11th July at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Numbers+Game&iso=20230711T09&p1=1440&ah=1" target="_blank" rel="noopener noreferrer">09:00 UTC</a> with Mariann Hardey's talk <a href="/events/2023-07-11" target="_blank" rel="noopener noreferrer">Numbers Game</a>.</p>
     <p>In the meantime, <strong>why not take a look at slides and videos from our <a href="/past_events" target="_blank" rel="noopener noreferrer">past talks</a></strong>.</p>
 </div>
 

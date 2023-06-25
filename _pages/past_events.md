@@ -8,6 +8,21 @@ permalink: /past_events
 <div class="notice notice--primary" style="font-size: 0.9em !important;">
     <table>
         {% comment %}
+        <!╌2023 June event╌>
+        {% endcomment %}
+        <tr>
+            <td style="vertical-align: top;">
+                <strong><a href="/events/2023-06-08" target="_blank" rel="noopener noreferrer">Thursday 8th June 2023<br/>11:00 UTC</a></strong>
+            </td>
+            <td  style="vertical-align: top;">
+                <strong><em>Improving Diversity and Inclusion in the Research Software Engineering Community</em></strong><br/>
+                <em>Rowland Mosbergen</em>.
+                <br/>
+                <a href="/events/2023-06-08" target="_blank" rel="noopener noreferrer">
+                Full event details</a> - <a href="#" target="_blank" rel="noopener noreferrer"><strong>Video (available soon)</strong></a>
+            </td>
+        </tr>
+        {% comment %}
         <!╌2023 May event╌>
         {% endcomment %}
         <tr>

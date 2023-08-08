@@ -19,7 +19,7 @@ header:
 ---
 
 <div class="notice--success" style="font-size: 0.9em !important;">
-    <p>Our next talk in the 2023 DiveRSE series will take place online on Tuesday 11th July at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Numbers+Game&iso=20230711T09&p1=1440&ah=1" target="_blank" rel="noopener noreferrer">09:00 UTC</a> with Mariann Hardey's talk <a href="/events/2023-07-11" target="_blank" rel="noopener noreferrer">Numbers Game</a>.</p>
+    <p>Our next event in the 2023 DiveRSE series will be  <a href="/events/2023-09-12" target="_blank" rel="noopener noreferrer">a conversation about Equity, Diversity, Inclusion and Accessibility (EDIA) in the RSE community</a> between Ella Kaye, University of Warwick and Malvika Sharan, The Alan Turing Institute taking place on Tuesday 12th September at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=A+conversation+about+EDIA+in+the+RSE+community%3A+reflections+on+successes+and+challenges&iso=20230912T09&p1=1440&ah=1" target="_blank" rel="noopener noreferrer">09:00 UTC</a>.</p>
     <p>In the meantime, <strong>why not take a look at slides and videos from our <a href="/past_events" target="_blank" rel="noopener noreferrer">past talks</a></strong>.</p>
 </div>
 

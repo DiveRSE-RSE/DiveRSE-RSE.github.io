@@ -19,8 +19,8 @@ header:
 ---
 
 <div class="notice--success" style="font-size: 0.9em !important;">
-    <p>Details of our next DiveRSE talk in the 2023 series will appear here soon.</p>
-    <p>In the meantime, <strong>why not take a look at slides and videos from our <a href="/past_events" target="_blank" rel="noopener noreferrer">past talks</a></strong>.</p>
+    <p>Our next talk in the DiveRSE series will take place on <strong>Tuesday 31st July 2024</strong>. Registration and further details will be avialable soon.</p>
+    <p>In the meantime, <strong>why not take a look at slides and videos from our <a href="{{ site.baseurl }}/past_events" target="_blank" rel="noopener noreferrer">past talks</a></strong>.</p>
 </div>
 
 DiveRSE is a series of talks and related activities including discussion and
@@ -28,12 +28,13 @@ panel sessions designed to support and raise awareness of Equity, Diversity and
 Inclusion (EDI) challenges and successes within the research software
 community.
 
-The series runs from March 2022 and is linked to the "[_Vive la différence - research software
-engineers_](https://www.researchsoft.org/events/2022-04/)" workshop being
-hosted at the [Lorentz Centre](https://www.lorentzcenter.nl/about-us.html) in
+The series started in March 2022, linked to the "[_Vive la différence -
+research software engineers_](https://www.researchsoft.org/events/2022-04/)"
+workshop that was hosted at the [Lorentz
+Centre](https://www.lorentzcenter.nl/about-us.html) in 
 The Netherlands in April 2022.
 
-[Find out more](/about) about the DiveRSE event series.
+[Find out more]({{ site.baseurl }}/about) about the DiveRSE event series.
 
 <!--
 ### Upcoming events

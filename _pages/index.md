@@ -19,7 +19,7 @@ header:
 ---
 
 <div class="notice--success" style="font-size: 0.9em !important;">
-    <p>Our next talk in the DiveRSE series will take place on <strong>Tuesday 31st July 2024</strong>. Registration and further details will be avialable soon.</p>
+    <p>Our next talk in the DiveRSE series will take place on <strong>Tuesday 31st July 2024</strong>. See the <a href="{{ site.baseurl }}/events/2024-07-31">event page</a> for more details.</p>
     <p>In the meantime, <strong>why not take a look at slides and videos from our <a href="{{ site.baseurl }}/past_events" target="_blank" rel="noopener noreferrer">past talks</a></strong>.</p>
 </div>
 
